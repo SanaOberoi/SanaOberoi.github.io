@@ -6,11 +6,9 @@ export default function Intro() {
     <section className="flex-col md:flex-row flex items-center md:justify-between mt-16 mb-16 md:mb-12">
       <div className="md:pr-8">
         <h1 className="text-6xl md:text-7xl font-bold leading-tight">
-          Hi, I'm Annie Apple,<br />Product Leader
+          Hi, I'm Sana Oberoi <br /> INSEAD (MBA) | Elevation Capital (SAIF Partners) | UBS | KPMG
         </h1>
-        <p className="text-lg block text-slate-500">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
-          Velit officia consequat duis enim velit mollit. 
-          Exercitation veniam consequat sunt nostrud amet.</p>
+        <p className="text-lg block text-slate-500">I am a full-stack partner to founders, bridging the gap between capital formation, strategic operations, and venture investing. As the first hire to co-build Elevation Capital's Corporate Development practice, I managed ambiguity to scale systems from zero to one. Whether it's driving a fundraise, fixing unit economics, or building an investment thesis, I help companies navigate the entire lifecycle from early-stage growth to IPO readiness..</p>
         <a href="/assets/resume/Resume.pdf"
           className="bg-accent-1 hover:bg-white hover:text-accent-1 border border-accent-1 text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mt-6 inline-block"
         >
