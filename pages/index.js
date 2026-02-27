@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Sana Oberoi
+          <title>Sana Oberoi</title>
         </Head>
         <Container>
           <Intro />
