@@ -1,14 +1,9 @@
 ---
 title: 'Operational Problem Solving'
-excerpt: 'Worked closely with portfolio founders on expansion, proftability and M&A initiatives.'
-coverImage: '/assets/posts/hello-world/cover.jpg'
+excerpt: 'Embedded with portfolio founders to navigate high-stakes decisions across expansion, unit economics, and M&A. Focused on hands-on execution to drive tangible growth improvements.'
+coverImage: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&q=80&w=800'
 date: '2026-03-02T00:00:00.000Z'
 author:
   name: Sana Oberoi
-  picture: '/assets/posts/authors/annie.svg'
-ogImage:
-  url: '/assets/posts/hello-world/cover.jpg'
+  picture: 'https://i.pravatar.cc/150?u=sana'
 ---
-
-### Growth & Profitability
-*(We will write the full details of your strategic problem-solving for D2C/omnichannel brands here later!)*
