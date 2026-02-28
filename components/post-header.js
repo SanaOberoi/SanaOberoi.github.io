@@ -1,18 +1,12 @@
-import Avatar from '../components/avatar'
 import CoverImage from '../components/cover-image'
-import Link from 'next/link'
+import PostTitle from '../components/post-title'
 
-export default function PostHeader({ title, coverImage, date, author }) {
+export default function PostHeader({ title, coverImage }) {
   return (
     <>
       <PostTitle>{title}</PostTitle>
-      <div className="mb-8 md:mb-16 sm:mx-0 flex justify-center">
-        <CoverImage 
-          title={title} 
-          src={coverImage} 
-          height={240}
-          width={320}
-        />
+      <div className="mb-8 md:mb-16 sm:mx-0">
+        <CoverImage title={title} src={coverImage} height={620} width={1240} />
       </div>
     </>
   )
