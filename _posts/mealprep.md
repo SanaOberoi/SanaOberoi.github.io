@@ -5,4 +5,6 @@ coverImage: '/assets/posts/hello-world/cover.jpg'
 author:
   name: Sana Oberoi
   picture: '/assets/posts/authors/annie.svg'
+  ogImage:
+  url: "/assets/posts/hello-world/cover.jpg"
 ---
