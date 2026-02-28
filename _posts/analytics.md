@@ -1,45 +1,24 @@
 ---
-title: 'Advanced analytics for internal users'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.'
-coverImage: '/assets/posts/analytics/cover.svg'
-date: '2022-05-26T05:35:07.322Z'
+title: 'Building Elevation Connect'
+excerpt: 'Transitioned one of India’s largest VC-founder conferences from a manual bottleneck into a custom-built, automated matching platform to scale investor-founder interactions.'
+coverImage: '/assets/posts/dynamic-routing/cover.jpg'
+date: '2026-03-04T00:00:00.000Z'
 author:
-  name: Annie Apple
-  picture: '/assets/blog/authors/annie.svg'
+  name: Sana Oberoi
+  picture: '/assets/posts/authors/annie.svg'
 ogImage:
-  url: '/assets/posts/analytics/cover.svg'
+  url: '/assets/posts/dynamic-routing/cover.jpg'
 ---
 
-## Product
+### The Context
+When I joined as the first Corporate Development hire at Elevation Capital, I inherited one of India’s largest VC-founder conferences. The problem? It wasn't built to scale. The entire operation was a highly manual bottleneck relying on disparate Excel sheets, requiring a 10-person team to spend months coordinating meetings between our portfolio founders and global investors. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget.
+### The Build
+My mandate wasn't just to "run the event"—it was to build a system that made the event effortless. Acting effectively as a Product Manager, I led cross-functional engineering and design teams to build a proprietary, automated event platform from the ground up.
 
-![Example product screencap](/assets/posts/analytics/example.svg)
+* **User Experience (UX):** I directed designers to move our users out of static spreadsheets and into customized web portals.
+* **Backend Logic:** I architected the matching logic and backend databases to enable automatic "double opt-ins" for ~40 portfolio companies and 200+ global capital pools.
+* **Workflow Automation:** I partnered directly with the tech team to replace manual email chains and Zoom link generation with a one-click system.
 
----
- 
-## My Role
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
----
-
-## Execution
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
-
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
-
----
-
-## Challenges & Achievements
-
-### Challenges
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-
-### Achievements
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-* **Lorem ipsum** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+### The Impact
+I condensed a months-long, 10-person manual grind into an automated product that required only ~5 hours per week to manage. We successfully enabled 600+ curated meetings, doubled overall attendance, and expanded our coverage across the Americas, Europe, Middle East, and SEA.
