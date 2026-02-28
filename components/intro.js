@@ -10,7 +10,7 @@ export default function Intro() {
       </h1>
       
       <h2 className="text-2xl md:text-3xl font-medium text-slate-600 mb-6">
-        INSEAD (MBA) | Elevation Capital (SAIF Partners) | UBS | KPMG
+        INSEAD | Elevation Capital (SAIF Partners) | UBS | KPMG
       </h2>
       
       <p className="text-lg block text-slate-500 leading-relaxed max-w-3xl mb-8">
