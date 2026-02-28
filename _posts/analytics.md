@@ -1,7 +1,9 @@
 ---
-title: 'Building Elevation Connect'
-excerpt: 'Re-engineered a manual matching bottleneck into a custom-built, automated platform for India’s largest VC-founder conference. Owned the end-to-end build to scale impact.'
-coverImage: '/assets/posts/hello-world/cover.jpg'
+title: "Building Elevation Connect"
+excerpt: "Transitioned one of India's largest VC-founder conferences from a manual bottleneck into a custom-built, automated matching platform to scale investor-founder interactions."
+coverImage: "/assets/posts/dynamic-routing/cover.jpg"
+date: "2026-03-04T00:00:00.000Z"
 author:
-  name: Sana Oberoi
-  picture: '/assets/posts/authors/annie.svg'
+  name: "Sana Oberoi"
+  picture: "/assets/posts/authors/annie.svg"
+---
