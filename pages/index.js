@@ -15,7 +15,9 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
-          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          <div className="mt-12">
+            {allPosts.length > 0 && <MoreStories posts={allPosts} />}
+          </div>
         </Container>
       </Layout>
     </>
