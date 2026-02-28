@@ -7,6 +7,3 @@ author:
   name: Sana Oberoi
   picture: 'https://i.pravatar.cc/150?u=sana'
 ---
-
-### The Initiative
-As a cross-campus cohort at INSEAD, we navigated the shift from AI theory to practical application. This initiative focused on collective learning and demystifying new technologies through hands-on experimentation.
