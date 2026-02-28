@@ -6,4 +6,6 @@ date: '2026-03-05T00:00:00.000Z'
 author:
   name: Sana Oberoi
   picture: '/assets/posts/authors/annie.svg'
+  ogImage:
+  url: "/assets/posts/hello-world/cover.jpg"
 ---
