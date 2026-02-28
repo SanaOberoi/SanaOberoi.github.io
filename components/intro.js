@@ -14,7 +14,7 @@ export default function Intro() {
       </h2>
       
       <p className="text-lg block text-slate-500 leading-relaxed max-w-3xl mb-8">
-        I partner with founders across investing, operational problem-solving, and follow-on fundraising. As the first hire to co-build Elevation Capital's Corporate Development practice, I scaled systems from zero to one.
+        Second hire to build Elevation Capital's Corporate Development practice and partnered with founders across investing, operational problem-solving, and follow-on fundraising.
       </p>
         <a href="/assets/resume/Resume.pdf"
           className="bg-accent-1 hover:bg-white hover:text-accent-1 border border-accent-1 text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mt-6 inline-block"
