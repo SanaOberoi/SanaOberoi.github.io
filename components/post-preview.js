@@ -12,7 +12,7 @@ export default function PostPreview({
   slug,
 }) {
   return (
-    <div className="border-b border-slate-200 last:border-0 pb-8 mb-8">
+    <div className="pb-8 mb-8">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
           <CoverImage
