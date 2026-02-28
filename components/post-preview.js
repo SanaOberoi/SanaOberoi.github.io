@@ -1,4 +1,5 @@
-import CoverImage from './cover-image'
+import Avatar from '../components/avatar'
+import CoverImage from '../components/cover-image'
 import Link from 'next/link'
 
 export default function PostPreview({
