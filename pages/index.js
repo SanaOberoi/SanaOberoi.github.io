@@ -1,6 +1,5 @@
 import Container from '../components/container'
 import MoreStories from '../components/more-stories'
-import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import { getAllPosts } from '../lib/api'
@@ -12,22 +11,12 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Sana Oberoi</title>
+          <title>{CMS_NAME}</title>
         </Head>
         <Container>
           <Intro />
+          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
         </Container>
-        <div className="bg-sky-50 pt-16 pb-16">
-          <Container>
-            <Intro />
-        <MoreStories posts={allPosts} />
-      </Container>
-          </div>
-          <Container>
-            <div className="md:mt-16">
-              {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-            </div>
-          </Container>
       </Layout>
     </>
   )
