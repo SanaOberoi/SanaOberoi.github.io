@@ -29,9 +29,6 @@ export default function PostPreview({
               <a className="hover:underline">{title}</a>
             </Link>
           </h3>
-          <div className="text-md mb-4 text-slate-500">
-            <DateFormatter dateString={date} />
-          </div>
           <p className="text-lg leading-relaxed mb-4 text-slate-500">{excerpt}</p>
         </div>
       </div>
