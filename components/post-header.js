@@ -1,5 +1,6 @@
+import Avatar from '../components/avatar'
 import CoverImage from '../components/cover-image'
-import PostTitle from '../components/post-title'
+import Link from 'next/link'
 
 export default function PostHeader({ title, coverImage, date, author }) {
   return (
